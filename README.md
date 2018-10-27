@@ -43,6 +43,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - NEED HELP
 - Witchtopia.
 - Some kinda place that's on fire
+- Some kinda place that's not on fire
 - Marketplace
 - Quest board or place to accept quests.
 - Military town
