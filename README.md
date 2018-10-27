@@ -36,6 +36,7 @@ NEED HELP
 
 ### - Towns and Places
 - Some kinda place that's on fire
+- Some kinda place that's not on fire
 
 ### - Mechanics
 NEED HELP
