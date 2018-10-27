@@ -30,7 +30,7 @@ NEED HELP
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
 
 ### - NPCs
-NEED HELP
+- Why not Zoidberg?
 
 ### - Towns and Places
 NEED HELP
