@@ -21,6 +21,8 @@ NEED HELP
 NEED HELP
 
 ## Technologies
+* Django Framework for web development
+* MongoDB database to store user information/ in-game stuff
 NEED HELP
 
 ## General Ideas
