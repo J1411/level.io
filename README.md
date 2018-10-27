@@ -15,7 +15,8 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Helpful Resources
 
 ## Requirements
-NEED HELP
+- Need to work on mobile, tablet, and desktop
+- NEED HELP
 
 ## Challenges
 NEED HELP
