@@ -8,6 +8,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Requirements
 - Challenges
 - Technologies
+  - Special weapons to kill witches
 - General Ideas
   - NPCs
   - Towns and Places
