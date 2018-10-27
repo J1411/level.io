@@ -35,7 +35,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - A guy that sells things
 
 ### - Towns and Places
-NEED HELP
+- Some place that's not on fire
 
 ### - Mechanics
 NEED HELP
