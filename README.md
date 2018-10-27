@@ -39,6 +39,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - A Witch.
 
 ### - Towns and Places
+- Some place that's not on fire
 - NEED HELP
 - Witchtopia.
 - Some kinda place that's on fire
