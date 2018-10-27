@@ -39,4 +39,4 @@ NEED HELP
 NEED HELP
 
 ## Helpful Resources
-- NEED HELP
+- Adam has a notebook full of lists that are perfect for this.
