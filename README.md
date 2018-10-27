@@ -23,6 +23,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 ## Challenges
 NEED HELP
 Help kill a witch.
+Defeat most powerful witch
 
 ## Technologies
 NEED HELP
