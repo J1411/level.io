@@ -15,7 +15,9 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Helpful Resources
 
 ## Requirements
-NEED HELP
+- Need to work on mobile, tablet, and desktop
+- Works in Chrome, Firefox, Safari, and Edge (both mobile and desktop)
+- NEED HELP
 
 ## Challenges
 NEED HELP
@@ -37,8 +39,9 @@ NEED HELP
 A Witch.
 
 ### - Towns and Places
-NEED HELP
-Witchtopia.
+- NEED HELP
+- Witchtopia.
+- Some kinda place that's on fire
 
 ### - Mechanics
 NEED HELP
