@@ -35,8 +35,8 @@ Witch Slayer Achievement.
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
 
 ### - NPCs
-NEED HELP
-A Witch.
+- Why not Zoidberg?
+- A Witch.
 
 ### - Towns and Places
 - NEED HELP
