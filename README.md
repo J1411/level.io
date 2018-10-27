@@ -48,7 +48,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - Military town
 
 ### - Mechanics
-NEED HELP
+- Damage Types and resistances
 
 ## Helpful Resources
 - NEED HELP
