@@ -38,7 +38,7 @@ NEED HELP
 - Some kinda place that's on fire
 
 ### - Mechanics
-NEED HELP
+- Damage Types and resistances
 
 ## Helpful Resources
 - NEED HELP
