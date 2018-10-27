@@ -34,10 +34,12 @@ HELP NEED TO EXPLAIN
 HELP NEED TO EXPLAIN
 
 - Archery
+Witch Tipped Arrows
 
 HELP NEED TO EXPLAIN
 
 - Magic
+Witch Bomb
 
 HELP NEED TO EXPLAIN
 

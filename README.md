@@ -15,7 +15,9 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Helpful Resources
 
 ## Requirements
-NEED HELP
+- Need to work on mobile, tablet, and desktop
+- Works in Chrome, Firefox, Safari, and Edge (both mobile and desktop)
+- NEED HELP
 
 ## Challenges
 NEED HELP
@@ -27,15 +29,20 @@ Learn device to kill a witch.
 
 ## General Ideas
 NEED HELP
+Witch Slayer Achievement. 
 
 ### - Player Stats
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
 
 ### - NPCs
-- A guy that sells things
+- Why not Zoidberg?
+- A Witch.
 
 ### - Towns and Places
 - Some place that's not on fire
+- NEED HELP
+- Witchtopia.
+- Some kinda place that's on fire
 
 ### - Mechanics
 NEED HELP
