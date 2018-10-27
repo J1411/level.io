@@ -51,5 +51,5 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - Damage Types and resistances
 
 ## Helpful Resources
-- NEED HELP
+- Adam has a notebook full of lists that are perfect for this.
 -https://en.wikipedia.org/wiki/List_of_lists_of_lists
