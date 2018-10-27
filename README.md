@@ -37,6 +37,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 ### - NPCs
 - Why not Zoidberg?
 - A Witch.
+- A Black Cat
 
 ### - Towns and Places
 - Some place that's not on fire
