@@ -16,6 +16,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 
 ## Requirements
 - Need to work on mobile, tablet, and desktop
+- Works in Chrome, Firefox, Safari, and Edge (both mobile and desktop)
 - NEED HELP
 
 ## Challenges
