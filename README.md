@@ -15,8 +15,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Helpful Resources
 
 ## Requirements
-- Need to work on mobile, tablet, and desktop
-- NEED HELP
+NEED HELP
 
 ## Challenges
 NEED HELP
@@ -37,6 +36,9 @@ NEED HELP
 
 ### - Towns and Places
 - Some kinda place that's on fire
+- Marketplace
+- Quest board or place to accept quests.
+- Military town
 
 ### - Mechanics
 NEED HELP
