@@ -55,4 +55,5 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 
 ## Helpful Resources
 - Adam has a notebook full of lists that are perfect for this.
--https://en.wikipedia.org/wiki/List_of_lists_of_lists
+- https://en.wikipedia.org/wiki/List_of_lists_of_lists
+- https://www.oryxdesignlab.com/
