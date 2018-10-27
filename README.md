@@ -29,14 +29,18 @@ Learn device to kill a witch.
 
 ## General Ideas
 NEED HELP
+Witch Slayer Achievement. 
 
 ### - Player Stats
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
 
 ### - NPCs
 NEED HELP
+A Witch.
 
 ### - Towns and Places
+- NEED HELP
+- Witchtopia.
 - Some kinda place that's on fire
 
 ### - Mechanics
