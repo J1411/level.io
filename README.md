@@ -19,9 +19,11 @@ NEED HELP
 
 ## Challenges
 NEED HELP
+Help kill a witch.
 
 ## Technologies
 NEED HELP
+Learn device to kill a witch.
 
 ## General Ideas
 NEED HELP
