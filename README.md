@@ -32,10 +32,10 @@ NEED HELP
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
 
 ### - NPCs
-- A guy that sells things
+NEED HELP
 
 ### - Towns and Places
-NEED HELP
+- Some kinda place that's on fire
 
 ### - Mechanics
 NEED HELP
