@@ -24,6 +24,8 @@ NEED HELP
 Help kill a witch.
 
 ## Technologies
+* Django Framework for web development
+* MongoDB database to store user information/ in-game stuff
 NEED HELP
 Learn device to kill a witch.
 
