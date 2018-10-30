@@ -17,7 +17,7 @@ HELP NEED TO EXPLAIN
 
 #### Attributes:
 - Strength
-
+Ancient Witch Slaying Strength
 HELP NEED TO EXPLAIN
 
 - Wisdom
