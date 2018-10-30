@@ -8,6 +8,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - Requirements
 - Challenges
 - Technologies
+  - Special weapons to kill witches
 - General Ideas
   - NPCs
   - Towns and Places
@@ -22,6 +23,7 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 ## Challenges
 NEED HELP
 Help kill a witch.
+Defeat most powerful witch
 
 ## Technologies
 * Django Framework for web development
@@ -32,6 +34,7 @@ Learn device to kill a witch.
 ## General Ideas
 NEED HELP
 Witch Slayer Achievement. 
+- Experience points accumulate over time to increase status
 
 ### - Player Stats
 General things that pertain to the player. This is located in the [aboutPlayers.md](./aboutPlayers.md).
@@ -39,6 +42,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 ### - NPCs
 - Why not Zoidberg?
 - A Witch.
+- A Black Cat
 
 ### - Towns and Places
 - Some place that's not on fire
