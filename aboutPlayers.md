@@ -5,13 +5,19 @@ This file is for describing players. Below are the finer details
 #### Vitals:
 - Health
 
+The core of survivability for the player. Very general type health, can be damaged/healed depending on the situation or event that the player triggers. 
+
 HELP NEED TO EXPLAIN
 
 - Magic
 
+ A quantifiable amount for the player to easily reference how much magic they can use/have left.
+
 HELP NEED TO EXPLAIN
 
 - Stamina
+
+Represents by amount how much the player can continue utilizing physically draining abilities.
 
 HELP NEED TO EXPLAIN
 
@@ -42,7 +48,7 @@ HELP NEED TO EXPLAIN
 - Magic
 Witch Bomb
 
-HELP NEED TO EXPLAIN
+HELP NEED TO EXPLAI
 
 #### General Capabilities:
 - Talking
