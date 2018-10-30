@@ -47,7 +47,9 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - Why not Zoidberg?
 - A Witch.
 - A Black Cat
-
+- Colton
+   - This NPC will appear randomly throughout the course of the players story, providing helpful/unhelpful tips. Colton will change outfits periodically whilst claiming to be someone else, however it will still obviously be Colton. Word B?
+- Eck
 ### - Towns and Places
 NEED HELP
 - Some place that's not on fire
@@ -57,6 +59,9 @@ NEED HELP
 - Marketplace
 - Quest board or place to accept quests.
 - Military town
+- Home base (Upgradable)
+- Space travel? Possible ship based gameplay, using it as another Home base.
+
 
 ### - Mechanics
 - Damage Types and resistances
