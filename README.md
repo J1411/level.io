@@ -21,14 +21,18 @@ This repo is made for Hacktoberfest 2018 by [NAU ACM](http://nau.edu/acm), [@jbe
 - NEED HELP
 
 ## Challenges
-NEED HELP
-Help kill a witch.
-Defeat most powerful witch
+- Create a constitution for the new free state.
+- Create the free state.
+- Help kill a witch.
+- Defeat most powerful witch.
+- Solve riddles to open doors.
+- Create relationships with NPC's. Bad or Good, each will have their respective effects on world/player
 
 ## Technologies
+NEED HELP
 * Django Framework for web development
 * MongoDB database to store user information/ in-game stuff
-NEED HELP
+* Unity 
 Learn device to kill a witch.
 
 ## General Ideas
@@ -45,8 +49,8 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - A Black Cat
 
 ### - Towns and Places
+NEED HELP
 - Some place that's not on fire
-- NEED HELP
 - Witchtopia.
 - Some kinda place that's on fire
 - Some kinda place that's not on fire
@@ -58,6 +62,7 @@ General things that pertain to the player. This is located in the [aboutPlayers.
 - Damage Types and resistances
 
 ## Helpful Resources
+- Colton
 - Adam has a notebook full of lists that are perfect for this.
 - https://en.wikipedia.org/wiki/List_of_lists_of_lists
 - https://www.oryxdesignlab.com/
